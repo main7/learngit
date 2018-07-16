@@ -4,4 +4,4 @@ Git is really nice.
 Creating a new branch is quick.
 I will choice dev.
 Creating a new branch is quick and simple.
-&
+AND
