@@ -1,8 +1,11 @@
 Git is a distributed version control system.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Git is free software distributed under the GPL.
-Git is a really nice.
+Git is  really nice.
 =======
+=======
+>>>>>>> Stashed changes
 Git is a free software distributed under the GPL.
 Git is really nice.
 >>>>>>> Stashed changes
